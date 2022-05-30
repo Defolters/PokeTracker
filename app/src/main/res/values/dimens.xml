@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_header">24sp</dimen>
+    <dimen name="text_size_body">18sp</dimen>
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="default_margin">10dp</dimen>
+    <dimen name="indicator_size">150dp</dimen>
+    <dimen name="evolution_margin">20dp</dimen>
+</resources>

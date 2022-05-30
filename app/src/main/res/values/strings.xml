@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokeTracker</string>
+    <string name="no_data">NO DATA</string>
+    <string name="evolution_chain">Evolution chain:</string>
+</resources>
